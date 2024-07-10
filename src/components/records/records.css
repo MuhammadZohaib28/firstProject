@@ -1,0 +1,28 @@
+.recordssection {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  flex-direction: column;
+  padding: 0 2rem;
+  background-color: bisque;
+}
+
+.schoolRecords {
+  width: 100%;
+  margin: 2rem 0;
+  background-color: rgba(128, 128, 128, 0.459);
+  padding: 3rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li{
+    background-color: aqua;
+    width: 30%;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}

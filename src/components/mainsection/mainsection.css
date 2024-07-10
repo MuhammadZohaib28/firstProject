@@ -1,0 +1,36 @@
+.mainsection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: azure;
+    height: calc(100vh - 4.2rem);
+    padding: 0 3rem;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+    color: #333;
+}
+
+p{
+    font-size: 1.8rem;
+    color: #333;
+    margin: 2rem 0;
+
+}
+
+.aboutsection{
+    width: 50%;
+}
+
+.image{
+    /* border: 1px solid red; */
+    border-radius: 19rem;
+    background-color: rgba(0, 0, 0, 0.126);
+}
+
+img{
+    width: 100%;
+    border-radius: 19rem;
+}
