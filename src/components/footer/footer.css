@@ -1,15 +1,15 @@
-footer{
-    background-color: beige;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 2rem;
+footer {
+  background-color: red;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
 }
 
-.data{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 1rem; 
+.data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
 }
